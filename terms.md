@@ -7,7 +7,7 @@
   <h1>Terms of Service</h1>
   <p>Last updated: [date]</p>
 
-  <p>By using [Your Name / Project Name] ("the App") to sign in with TikTok, 
+  <p>By using [Haru/ Cybertester] ("Cyber-test") to sign in with TikTok, 
   you agree to the following terms:</p>
 
   <h3>1. Purpose</h3>
