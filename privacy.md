@@ -2,7 +2,7 @@ Privacy Policy
 
 Last updated: [15/07/2026]
 
-This privacy policy describes how Cyber-tester
+This privacy policy describes how Cyber-tester 
 collects, uses, and protects information when you use it to sign in with 
 TikTok via TikTok's official OAuth login system.
 
